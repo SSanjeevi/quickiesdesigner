@@ -1,0 +1,10 @@
+{
+    "firebase": {
+        "apiKey": "AIzaSyCeDuxmzAA_3FlJO-Tsif-aDEjfaY9i0Kc",
+        "authDomain": "tnpscquickies.firebaseapp.com",
+        "databaseURL": "https://tnpscquickies.firebaseio.com",
+        "projectId": "tnpscquickies",
+        "storageBucket": "tnpscquickies.appspot.com"
+    },
+    "environment": "runtime"
+}
